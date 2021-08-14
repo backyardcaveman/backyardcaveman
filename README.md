@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @backyardcaveman aka Cameron
-- 👀 I’m interested in speedrunning games, front end developement, and back-end development(although i have no experience here)
-- 🌱 I’m currently learning C# for for the use of developing programs/applications. I have experience with HTML CSS and JS
-- 💞️ I’m looking to collaborate on anything dev related :)
+
+- 👀 I’m interested in front end developement, back-end development(although i have little experience here), and speedrunning games
+
+- 🌱 I have solid experience with HTML CSS and JS
+
+- 💞️ https://www.youtube.com/watch?v=qlS9sO5llOU -- video link of current repo's 
+
 - 📫 I can be reached by email at: fstcam@outlook.com
 
 <!---
